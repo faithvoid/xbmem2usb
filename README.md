@@ -5,7 +5,7 @@ XBMem2USB - Passive USB adapter for original Xbox controllers (Duke / S)
 
 "phat" prototype
 
-![](images/pcbrender1.png)
+![](images/pcbrender2.png)
 
 "slim" prototype
 
